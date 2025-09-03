@@ -23,10 +23,11 @@ The project is created as a mini-project to practice *web development basics*.
 ## 📷 Screenshots
 
 ### 🏠 Homepage
-![Homepage](images/screenshot1.png)
+![Homepage](https://github.com/Rakesh-183/Amazon_clone/blob/main/SS%20homepage.png.png)
 
 ### 📦 Product Section
-![Product Section](images/screenshot2.png)
+![Product Section 1](images/screenshot2.png)
+![Product Section 2](images/screenshot2.png)
 
 ### 📑 Footer
 ![Footer](images/screenshot3.png)
