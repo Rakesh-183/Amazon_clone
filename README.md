@@ -21,7 +21,4 @@ The project is created as a mini-project to practice *web development basics*.
 
 ---
 
-## 📂 Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rakesh-183/amazon_clone.git
+   
