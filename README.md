@@ -20,5 +20,14 @@ The project is created as a mini-project to practice *web development basics*.
 - *CSS3*  
 
 ---
+## 📷 Screenshots
 
+### 🏠 Homepage
+![Homepage](images/screenshot1.png)
+
+### 📦 Product Section
+![Product Section](images/screenshot2.png)
+
+### 📑 Footer
+![Footer](images/screenshot3.png)
    
