@@ -30,5 +30,5 @@ The project is created as a mini-project to practice *web development basics*.
 ![Product Section 2](https://github.com/Rakesh-183/Amazon_clone/blob/main/SS%20product%20section%202.png.png)
 
 ### 📑 Footer
-![Footer](images/screenshot3.png)
+![Footer](https://github.com/Rakesh-183/Amazon_clone/blob/main/SS%20footer.png.png)
    
